@@ -4,9 +4,11 @@ This project conducts a comprehensive revenue analysis of two hotels: Resort Hot
 
 Objectives
 Analyze revenue trends for Resort Hotel and City Hotel across different years.
+
 Evaluate room bookings patterns for weekends versus weekdays.
 Assess the effectiveness of discounts in attracting customers during the challenging year 2020.
 Provide actionable insights for hotel managers to optimize revenue strategies, including the timing and magnitude of discounts.
+
 Dataset
 The dataset comprises detailed information on room bookings, meal costs, and customer demographics for Resort Hotel and City Hotel. It spans the years 2018, 2019, and 2020, allowing for a comprehensive analysis of revenue trends and customer behavior.
 
