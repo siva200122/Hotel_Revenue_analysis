@@ -13,7 +13,14 @@ Assess the effectiveness of discounts in attracting customers during the challen
 Provide actionable insights for hotel managers to optimize revenue strategies, including the timing and magnitude of discounts.
 
 Dataset
+
 The dataset comprises detailed information on room bookings, meal costs, and customer demographics for Resort Hotel and City Hotel. It spans the years 2018, 2019, and 2020, allowing for a comprehensive analysis of revenue trends and customer behavior.
 
 Usage
+
 Explore the provided SQL queries and Power BI reports to gain insights into hotel revenue analysis, booking patterns, and discount strategies. The findings offer valuable guidance for hotel managers seeking to optimize revenue generation and customer attraction strategies.
+
+Requirements 
+
+SQL, Power Bi, Excel
+
